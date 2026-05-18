@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://ipt-2026-backend-lendio.vercel.app'
+    apiUrl: 'https://ipt-2026-backend-eight.vercel.app/'
 };
